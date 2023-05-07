@@ -23,3 +23,12 @@ API-Shuttle-Bus-System
     </ol>
     </p>
 </div>
+<div>
+     <p> Main function : Register , Log in , Log out , Protect Route , Authentication</p>
+     <p> 1. Admin can control all major function such as assigning the driver , create/get/update/delete the schedule ,create/get/update/delete the stations ..</p>
+     <p> 2. User can booking the bus based on the schedule</p>
+     <p> 3. Driver responsible for seeing what schedule they assign to</p>
+
+         
+        
+</div>
