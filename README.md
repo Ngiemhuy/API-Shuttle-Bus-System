@@ -15,5 +15,11 @@ API-Shuttle-Bus-System
 </ul>
 <h1>Basic Feature</h1>
 <div>
-    <p> Consist of three role : Admin,Driver,User</p>
+    <p> Consist of three role : </p>
+    <p><ol> 
+    <li> Admin </li>
+    <li> User  </li>
+    <li> Driver </li>
+    </ol>
+    </p>
 </div>
