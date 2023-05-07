@@ -13,3 +13,7 @@ API-Shuttle-Bus-System
    <li> Express JS </li>
    <li> Node JS </li>
 </ul>
+<h1>Basic Feature</h1>
+<div>
+    <p> Consist of three role : Admin,Driver,User</p>
+</div>
