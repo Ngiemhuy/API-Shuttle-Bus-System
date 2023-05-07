@@ -1,0 +1,10 @@
+const express = require('express')
+const {protect} = require('../midldle/handlerFile')
+const { booking, cancel_booking, arrival_status, assign_driver, getALlDriver } = require('../controller/bookingControllers')
+const router = express.Router()
+router.post("/booking_bus",protect,booking)
+router.post("/cancel_booking/:id",protect,cancel_booking)
+router.post("/arrival_status/:id",protect,arrival_status)
+router.post("/assign_driver/:id",protect,assign_driver)
+router.get("/get_all_driver",protect,getALlDriver)
+module.exports=router

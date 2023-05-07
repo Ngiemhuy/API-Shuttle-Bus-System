@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "keochanny$1",
+      "database": "2023_shuttle_bus_system",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "postgres",
+      "password": "keochanny$1",
+      "database": "2023_shuttle_bus_system",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "postgres",
+      "password": "keochanny$1",
+      "database": "2023_shuttle_bus_system",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+  
