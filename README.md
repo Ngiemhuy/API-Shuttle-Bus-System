@@ -4,3 +4,8 @@ API-Shuttle-Bus-System
    <li> Postgres SQL </li>
    <li> Sequelize ORM </li>
 </ul>
+<h1>Technology Used </h1>
+<ul>
+   <li> Express JS </li>
+   <li> Node JS </li>
+</ul>
